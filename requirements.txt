@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+aioredis
+pydantic[dotenv]
+python-jose
+slowapi
+passlib[bcrypt]
+python-multipart
+python-dotenv
+pydantic-settings
+PyJWT
